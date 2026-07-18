@@ -28,10 +28,10 @@ This project performs Exploratory Data Analysis (EDA) on the Sample Superstore d
 <img width="1366" height="767" alt="p" src="https://github.com/user-attachments/assets/656e079d-338b-4cfe-a9ad-3fa4d16907bf" />
 
 -which category had the highest sales?
-Technology
+(Technology)
 -which category generated the highest profit?
-Technology
+(Technology)
 -which region recorded the highet sales?
-West
+(West)
 -which sub-category had the highest profit?
-Copiers
+(Copiers)
